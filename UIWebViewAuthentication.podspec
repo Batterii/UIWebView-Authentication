@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author       = { 'Synapsesoft, Inc.' =>'kusatsugu@synapsesoft.co.jp' }
   s.source       = { :git => 'https://github.com/Batterii/UIWebView-Authentication.git', :tag => "v#{s.version}", :submodules => true }
   s.platform     = :ios, '5.0'
-  s.source_files = 'UIWebViewAuthentication/**/*.{h,m}', 'External/SGURLProtocol/SGURLProtocol/**/*.{h,m}'
+  s.source_files = 'UIWebViewAuthentication/**/*.{h,m}'
   s.frameworks   = 'Foundation', 'CFNetwork'
   s.libraries    = 'z'
   s.requires_arc = true

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5B651DCA2116EB7A59D446E9FCE19621000EA8E2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5B651DCA2116EB7A59D446E9FCE19621000EA8E2" : 9223372036854775807,
+    "98A569DC24A345A9D795BED4A1EDB2E5A00BECB4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6799547D-2251-4914-9A35-61FC56205767",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5B651DCA2116EB7A59D446E9FCE19621000EA8E2" : "UIWebView-Authentication\/",
+    "98A569DC24A345A9D795BED4A1EDB2E5A00BECB4" : "UIWebView-Authentication\/External\/SGURLProtocol\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIWebViewAuthentication",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UIWebViewAuthentication.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Batterii\/UIWebView-Authentication.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B651DCA2116EB7A59D446E9FCE19621000EA8E2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Batterii\/SGURLProtocol.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98A569DC24A345A9D795BED4A1EDB2E5A00BECB4"
+    }
+  ]
+}
